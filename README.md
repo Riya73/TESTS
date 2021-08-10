@@ -7,3 +7,6 @@
 ### The back end of the project is the MySQL database where all the questions and answers are stored, the Project uses database connectivity to retrieve the data. The front end is designed in PyCharm. The project provides results that are quite reliable as are adopted and modified from reliable sources.
 
 ### A function ENTERTAIN is added to make the user experience a little fun.
+### Below are some Screenshots of this project: 
+![image](https://user-images.githubusercontent.com/72311878/128839270-09571f5b-9f46-4cbc-b8ba-c477feebc245.png)
+
